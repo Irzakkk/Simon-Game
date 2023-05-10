@@ -18,7 +18,7 @@ JavaScript: Additional JavaScript is used for game functionality, such as playin
 Getting Started
 To play the game locally or host it on a web server, follow these steps:
 
-Clone the repository: git clone https://github.com/Irzakkkk/simon-game.git
+Clone the repository: git clone https://github.com/Irzakkk/Simon-Game
 Navigate to the project directory: cd simon-game
 Open the index.html file in a web browser.
 Start playing and enjoy the game!
